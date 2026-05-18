@@ -62,11 +62,7 @@ class LinesiaDev:
 </div>
 
 ## 📊 GitHub Stats
- 
-<div align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Wyze3306&show_icons=true&theme=dark&bg_color=0d0d0d&title_color=f7931a&icon_color=f7931a&text_color=ffffff&border_color=f7931a&border_radius=10&hide_border=false" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wyze3306&layout=compact&theme=dark&bg_color=0d0d0d&title_color=f7931a&text_color=ffffff&border_color=f7931a&border_radius=10" />
-</div>
+
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Wyze3306&theme=dark&background=0d0d0d&ring=f7931a&fire=f7931a&currStreakLabel=f7931a&border=f7931a&border_radius=10" />
 </div>
