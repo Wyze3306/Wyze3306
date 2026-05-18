@@ -7,6 +7,7 @@
 </a>
 <br/>
 <!-- Visitor counter -->
+  
 ![](https://komarev.com/ghpvc/?username=Wyze3306&style=for-the-badge&color=f7931a&label=PROFILE+VIEWS)
  
 </div>
@@ -31,13 +32,13 @@ class LinesiaDev:
  
     def motto(self):
         return "Don't just use the future — build it."
-```
- 
+``` 
 ---
- 
+
 ## 🛠️ Stack & Technologies
  
 <div align="center">
+  
 ### Maîtrisé
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -63,7 +64,7 @@ class LinesiaDev:
 </div>
 
 ---
- 
+
 ## 📊 GitHub Stats
  
 <div align="center">
