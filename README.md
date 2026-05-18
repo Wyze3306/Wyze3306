@@ -7,7 +7,7 @@
 </a>
 <br/>
 <!-- Visitor counter -->
-![](https://komarev.com/ghpvc/?username=TON_USERNAME&style=for-the-badge&color=f7931a&label=PROFILE+VIEWS)
+![](https://komarev.com/ghpvc/?username=Wyze3306&style=for-the-badge&color=f7931a&label=PROFILE+VIEWS)
  
 </div>
 ---
@@ -61,27 +61,30 @@ class LinesiaDev:
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
  
 </div>
+
 ---
  
 ## 📊 GitHub Stats
  
 <div align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=TON_USERNAME&show_icons=true&theme=dark&bg_color=0d0d0d&title_color=f7931a&icon_color=f7931a&text_color=ffffff&border_color=f7931a&border_radius=10&hide_border=false" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TON_USERNAME&layout=compact&theme=dark&bg_color=0d0d0d&title_color=f7931a&text_color=ffffff&border_color=f7931a&border_radius=10" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Wyze3306&show_icons=true&theme=dark&bg_color=0d0d0d&title_color=f7931a&icon_color=f7931a&text_color=ffffff&border_color=f7931a&border_radius=10&hide_border=false" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wyze3306&layout=compact&theme=dark&bg_color=0d0d0d&title_color=f7931a&text_color=ffffff&border_color=f7931a&border_radius=10" />
 </div>
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TON_USERNAME&theme=dark&background=0d0d0d&ring=f7931a&fire=f7931a&currStreakLabel=f7931a&border=f7931a&border_radius=10" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Wyze3306&theme=dark&background=0d0d0d&ring=f7931a&fire=f7931a&currStreakLabel=f7931a&border=f7931a&border_radius=10" />
 </div>
 ---
  
 ## 📈 Activité
  
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TON_USERNAME&bg_color=0d0d0d&color=f7931a&line=f7931a&point=ffffff&area=true&hide_border=false&border_color=f7931a&radius=10" width="95%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Wyze3306&bg_color=0d0d0d&color=f7931a&line=f7931a&point=ffffff&area=true&hide_border=false&border_color=f7931a&radius=10" width="95%"/>
 </div>
+
 ---
  
 <div align="center">
+
 ### 🌐 Me retrouver
  
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/linesia)
