@@ -11,7 +11,6 @@
 ![](https://komarev.com/ghpvc/?username=Wyze3306&style=for-the-badge&color=f7931a&label=PROFILE+VIEWS)
  
 </div>
----
 
 ## ₿ À propos de moi
  
@@ -33,7 +32,6 @@ class LinesiaDev:
     def motto(self):
         return "Don't just use the future — build it."
 ``` 
----
 
 ## 🛠️ Stack & Technologies
  
@@ -62,7 +60,6 @@ class LinesiaDev:
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
  
 </div>
----
 
 ## 📊 GitHub Stats
  
@@ -73,14 +70,12 @@ class LinesiaDev:
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Wyze3306&theme=dark&background=0d0d0d&ring=f7931a&fire=f7931a&currStreakLabel=f7931a&border=f7931a&border_radius=10" />
 </div>
----
  
 ## 📈 Activité
  
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Wyze3306&bg_color=0d0d0d&color=f7931a&line=f7931a&point=ffffff&area=true&hide_border=false&border_color=f7931a&radius=10" width="95%"/>
 </div>
----
  
 <div align="center">
 
@@ -88,8 +83,6 @@ class LinesiaDev:
  
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/linesia)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Wyze3306)
-
----
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:f7931a,50:302b63,100:0f0c29&height=100&section=footer" width="100%"/>
 *— Building the decentralized future, one commit at a time. —*
