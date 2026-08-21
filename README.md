@@ -45,6 +45,15 @@ I care about performance, maintainable architecture and simple developer experie
         View repository
       </a>
     </td>
+    <td width="33%" valign="top">
+      <h3>Velyx</h3>
+      <p>
+        Run several Minecraft Bedrock windows at the same time, one Microsoft account each, with a full client in every one.
+      </p>
+      <a href="https://github.com/Wyze3306/Velyx">
+        View repository
+      </a>
+    </td>
   </tr>
 </table>
 
